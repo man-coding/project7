@@ -20,6 +20,7 @@ public class Quiz04 {
 
 		}
 		System.out.println(Arrays.toString(intArr));
+//배열 안의 모든 값을 출력
 	}
 
 }
