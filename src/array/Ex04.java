@@ -12,7 +12,7 @@ public class Ex04 {
 
 		System.out.println();
 		for (int i = 0; i < arr.length; i++) { // arr.length -> 배열의 길이 자동으로 밸류 치환, 세어 보지 않아도 길이 입력 가능.
-			System.out.print(arr[i] + " ");
+			System.out.print(arr[i] + " ");   //배열 전부 출력
 
 		}
 		System.out.println("배열의 길이:" + arr.length);

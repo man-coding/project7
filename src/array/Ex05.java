@@ -19,7 +19,7 @@ public class Ex05 {
 		}
 		System.out.println();
 		System.out.println(arr);
-		System.out.println(Arrays.toString(arr));
+		System.out.println(Arrays.toString(arr)); // Arrays.toString() 배열의 요소를 나열
 	}
 
 }
