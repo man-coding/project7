@@ -1,6 +1,6 @@
 package array;
 
-public class Ex1 {
+public class Ex01 {
 
 	public static void main(String[] args) {
 		// 변수 3개를 사용해서 숫자 3개 저장하기
