@@ -10,7 +10,7 @@ public class Quiz04 {
 
 		int[] intArr = new int[5];
 
-		int a = 0;
+		int a = 0;// 인덱스 값을 나타내는 변수
 
 		for (int i = 1; i <= 10; i++) {
 			if (i % 2 == 0) {
@@ -20,6 +20,7 @@ public class Quiz04 {
 
 		}
 		System.out.println(Arrays.toString(intArr));
+//배열 안의 모든 값을 출력
 	}
 
 }
